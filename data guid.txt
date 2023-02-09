@@ -85,7 +85,7 @@
       "image_link": "https://iili.io/H1vS8js.jpg",
       "title": "Version 1 Apk",
         "text_Content": "Garry's Mod, often referred to as GMod, is a popular sandbox physics game that allows players to experiment and play with physics in a virtual environment. The game was developed and released by Garry Newman in 2004 and is available for PC on the Steam platform.",
-        "text_Content_1": ""
+        "text_Content_1": "In conclusion, GMod is a physics-based sandbox game that allows players to experiment and create in"
 
 
 
@@ -95,7 +95,7 @@
       "image_link": "https://iili.io/H1vS8js.jpg",
       "title": " Version  2",
         "text_Content": "One of the unique features of Garry's Mod is the ability for players to manipulate and interact with objects in the game world.",
-        "text_Content_1": ""
+        "text_Content_1": "GMod also has a strong multiplayer community. Players can join servers hosted by other players or create their own servers to play with friends. The multiplayer mode allows players to share their creations and collaborate on projects with others."
 
 
 
@@ -105,7 +105,7 @@
       "image_link": "https://iili.io/H1vky6N.jpg",
       "title": "version  3",
         "text_Content": "This is made possible through the use of a physics engine, which simulates real-world physics such as gravity, friction, and collisions. Players can use the game's tools to create custom",
-        "text_Content_1": ""
+        "text_Content_1": "Another popular game mode in GMod is called "DarkRP." This is a role-playing game mode where players take on the roles of different characters within a virtual city. Players can choose to be a police officer, a criminal, a medic, or any other role they wish. The objective of the game is to complete tasks and interact with other players in a believable and immersive way."
 
 
 
@@ -115,7 +115,7 @@
       "image_link": "https://iili.io/H1vvAAu.jpg",
       "title": "Version 4",
         "text_Content": "The game is highly flexible and can be played in a variety of ways. Players can create their own custom game modes and play with friends, ",
-        "text_Content_1": ""
+        "text_Content_1": "Garry's Mod, commonly referred to as GMod, is a popular sandbox video game developed by Garry Newman and his company, Facepunch Studios. The game was first released on December 29, 2004 and since then, it has gained a massive following due to its unique gameplay and vast community of dedicated players."
 
 
 
@@ -125,7 +125,7 @@
       "image_link": "https://iili.io/H1vky6N.jpg",
       "title": "Apk version  5",
         "text_Content": " they can join online servers to play with others from around the world. There are also a number of popular game modes that are frequently played by the community, such as Trouble in Terrorist Town, Prop Hunt, and Murder. These modes provide a structure for players to play and interact within the game world, and often have unique rules and objectives to follow.",
-        "text_Content_1": ""
+        "text_Content_1": "GMod is a physics-based sandbox game that allows players to create and manipulate objects in a virtual environment. The game runs on the Source engine, which was originally developed for the game Half-Life 2. This engine provides a highly detailed and realistic physics simulation, allowing players to experiment with objects and their interactions in a realistic way."
 
 
 
@@ -136,7 +136,7 @@
       "title": "Version  6",
         "text_Content": "
 One of the reasons for the game's popularity is its highly modifiable nature. Players can create and share custom content, such as maps, models, and game modes, using the game's built-in scripting language. This has resulted in a thriving community of players and content creators who constantly create new and innovative content for others to enjoy. The game also has a large number of mods and addons available, which allow players to customize their experience and add new features and gameplay elements..",
-        "text_Content_1": ""
+        "text_Content_1": "One of the most popular game modes in GMod is called "Sandbox." As the name suggests, this mode allows players to freely experiment and build within the game world. Players can use a variety of tools, including props, physics gun, and a tool gun, to create and manipulate objects."
 
 
 
@@ -146,7 +146,7 @@ One of the reasons for the game's popularity is its highly modifiable nature. Pl
       "image_link": "https://iili.io/H1vkSZx.jpg",
       "title": "Version  7",
         "text_Content": "Another aspect of Garry's Mod that contributes to its popularity is its multiplayer capability. Players can join online servers to play with others from around the world and participate in games with friends. The game also has a built-in voice chat system, allowing players to communicate and coordinate with each other while playing. This multiplayer aspect has helped to create a strong sense of community among players, and many have formed lasting relationships and friendships through playing the game.",
-        "text_Content_1": ""
+        "text_Content_1": "One of the most popular game modes in GMod is called "Sandbox." As the name suggests, this mode allows players to freely experiment and build within the game world. Players can use a variety of tools, including props, physics gun, and a tool gun, to create and manipulate objects."
 
 
 
